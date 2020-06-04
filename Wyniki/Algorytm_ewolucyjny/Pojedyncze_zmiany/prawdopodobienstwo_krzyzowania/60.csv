@@ -1,0 +1,19 @@
+﻿Algorytm genetyczny
+
+Parametry
+Powtarzanie kolorów w kodzie dozwolone;TAK
+Kod do odgadnięcia;LOSOWY
+Początkowa kombinacja;LOSOWA
+Liczba symulacji;100
+Wielkość populacji;400
+Procent osobników używanych do reprodukcji;100
+Metoda selekcji;Ruletka
+Prawdopodobieństwo krzyżowania;0.6
+Prawdopodobieństwo mutacji;0.4
+Makymalna liczba pokoleń;13
+
+Wyniki
+Średnia liczba populacji;5.580
+Liczba zabitych populacji;1
+Najmniejsza liczba generacji;13
+Największa liczba generacji;2
